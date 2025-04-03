@@ -2,6 +2,8 @@
 
 A Python script for downloading Ethereum smart contract source code from Etherscan.
 
+Check out another repo to scrape a list of contract addresses from the DexScreener: [dexscreener-scraper](https://github.com/knedlicc/dexscreener-scraper)
+
 ## 📋 Overview
 
 This tool allows you to batch download verified Solidity smart contracts from the Ethereum blockchain using the Etherscan API. The script handles different source code formats, preserves directory structures, and organizes downloaded contracts neatly.
